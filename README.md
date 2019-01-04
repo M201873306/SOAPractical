@@ -4,6 +4,6 @@ Intelij IDEA、Windows、SpringCloud
 2. 数据库	
 	Mysql
 3.项目结构：
-[图片]
+![https://github.com/M201873306/SOAPractical/blob/master/image/xiangmujiegou.png]
 4.界面截图：
 [图片]
