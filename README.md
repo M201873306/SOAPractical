@@ -6,4 +6,4 @@ Intelij IDEA、Windows、SpringCloud<br>
 3.项目结构：<br>
 ![Image text](https://raw.githubusercontent.com/M201873306/SOAPractical/master/image/xiangmujiegou.png)<br>
 4.界面截图：<br>
-[图片]
+![Image text](https://raw.githubusercontent.com/M201873306/SOAPractical/master/image/xiangmujietu.png)
